@@ -8,7 +8,7 @@ date: "2020-12-27"
 
 In fact, most of the projects on this site will require cloud interaction of some sort—particularly with AWS's serverless products.
 
-## Getting Started
+## Getting Started Joey Diaz
 
 > To use AWS in these projects, we'll need to set up an account, the CLI, and the SDK.
 
